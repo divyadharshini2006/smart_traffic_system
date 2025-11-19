@@ -144,6 +144,17 @@ endmodule
 <img width="1470" height="923" alt="image" src="https://github.com/user-attachments/assets/3ef7d075-c9d1-419e-8133-abc9e1cb974b" />
 
 ## FPGA BOARD SIMULATION ##
+**(if reset =1 ; Green stays on )**
+<img width="1600" height="1134" alt="image" src="https://github.com/user-attachments/assets/910a204d-00f2-4d4d-994f-f34091acf6d1" />
+
+**(if emergency =1 ;green stays on )**
+<img width="1600" height="1141" alt="image" src="https://github.com/user-attachments/assets/ad5c8fec-c44c-405a-8ee4-f28760a27022" />
+
+
+**(if emergency =0 the normal loop goes on)**
+<img width="1600" height="1076" alt="image" src="https://github.com/user-attachments/assets/0e5808f0-87b9-4c6b-ad28-30657896317d" />
+<img width="1600" height="1164" alt="image" src="https://github.com/user-attachments/assets/4efbfc8d-e7cf-401b-877e-7a37e32fd60a" />
+<img width="1600" height="1077" alt="image" src="https://github.com/user-attachments/assets/69ff76ca-2ff1-4afc-9699-c352919033f4" />
 
 
 ## Result
