@@ -41,6 +41,8 @@ module smart_traffic_system (
     parameter S_GREEN  = 2'b00;
     parameter S_YELLOW = 2'b01;
     parameter S_RED    = 2'b10;
+    parameter DELAY_COUNT = 32'd500_000_000; 
+
 
     reg [1:0] state, next_state;
     reg [3:0] count;
@@ -140,6 +142,8 @@ endmodule
 ## Simulation Output 
 
 <img width="1470" height="923" alt="image" src="https://github.com/user-attachments/assets/3ef7d075-c9d1-419e-8133-abc9e1cb974b" />
+
+## FPGA BOARD SIMULATION ##
 
 
 ## Result
