@@ -147,7 +147,7 @@ endmodule
 **(if reset =1 ; Green stays on )**
 <img width="1600" height="1134" alt="image" src="https://github.com/user-attachments/assets/910a204d-00f2-4d4d-994f-f34091acf6d1" />
 
-**(if emergency =1 ;green stays on )**
+**(if emergency =1 & reset= 0 ;green stays on )**
 <img width="1600" height="1141" alt="image" src="https://github.com/user-attachments/assets/ad5c8fec-c44c-405a-8ee4-f28760a27022" />
 
 
